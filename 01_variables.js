@@ -3,7 +3,9 @@
 // in Javascript we use const, let or var keywords to define variables
 
 const username = "albert";
+
 let maxAge = 60;
+
 var minAge = 16.78;
 
 // username, maxAge and minAge are the variable names(labels for the data/ values)
@@ -12,7 +14,7 @@ var minAge = 16.78;
 console.log(minAge);
 console.log(username);
 
-//  var -- old - before 2015 --
+//  var -- old - before 2015 -- es6
 // let and const  -- block scoped
 
 // const -- constant non changing values
