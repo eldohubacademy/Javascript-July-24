@@ -76,8 +76,10 @@ console.log( myInfo[4] ); // the first element of the myInfo array
 
 // DEFINING A FUNCTION
 function formatMoney(){
+
     console.log("Changing the currency");
-    console.log("done!!!")    
+    console.log("done!!!")  
+
 }
 // to access/use code stored in a function, we call/invoke the function
 formatMoney()
