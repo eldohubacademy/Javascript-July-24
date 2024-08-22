@@ -8,7 +8,7 @@ console.log( 2**3 ); // ** power
 console.log(10 % 8); // 4
 
 
-// Comparison Operators > < => =< ==  ===
+// Comparison Operators > < >= =< ==  ===
 
 console.log( 12 < 10 ); // true
 console.log(12 <= 12  ); // greater than or equal --  true
@@ -33,5 +33,7 @@ console.log("*****************");
 console.log(  12>13 || 12==12   ); // F or T ---- T
 
 console.log( 12>8 && 90>=91  ); // T
+
+
 
 

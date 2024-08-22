@@ -35,3 +35,14 @@ const calculateAge = (yob)=>{
 calculateAge(1999)
 calculateAge(2010)
 calculateAge(1910)
+
+
+function sendEmail(email, message){
+    // use network
+    // format the text
+    // use SMPT 
+}
+
+sendEmail("eustud@gmil.com", "Submit Assingmet")
+
+sendEmail("stphen@gmil.com", "Submit Project")

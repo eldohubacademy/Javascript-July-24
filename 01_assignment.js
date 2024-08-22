@@ -21,4 +21,4 @@ const PI = 3.142
 // Differentiate between calling by value and calling by reference in js varaibles
 
 
-// 
+// truth table

@@ -5,10 +5,11 @@
 - variables - storing data --memory -- ram
 - output and input
 - data types
-- functions -- blocks of code stored in variable for re-use-- scopes
+- functions -- blocks of code stored in variable for re-use
+- scopes
 - operators == ==== \* / + - , truth table
 - control structures
-- objects -- OOP
+- objects -- OOP -- taskssss
 - array methods & string methods
 - date, math, RegExp
 - assigments
