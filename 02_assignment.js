@@ -63,6 +63,8 @@ const matatus = [
 
   /*
 1. Access the second route of the third matatu.
+// third matatu matatus[2].routes[1]
+
 2. Get the color of the last matatu. 
 2. Iterate over the array and print the plate number and color of each matatu e.g. KAI 123
 3. Find the matatu with the highest capacity.
@@ -73,6 +75,5 @@ const matatus = [
 8. Write a funciton to calculate the average capacity of all matatus.
 9. Write a function to check if any two matatus have the same plate number, returns the plate if found an null if none
 10. Create a new array containing only the routes of the matatus with a capacity greater than 40.
-
 
   */

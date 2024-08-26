@@ -9,6 +9,7 @@
 - scopes
 - operators == ==== \* / + - , truth table
 - control structures
+
 - objects -- OOP -- taskssss
 - array methods & string methods
 - date, math, RegExp
@@ -32,5 +33,3 @@
 -- API
 
 - build a project
-
-

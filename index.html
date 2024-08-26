@@ -10,13 +10,42 @@
     <h1>Javascript</h1>
     <p>Programming</p>
 
-    <script src="./02_datatypes.js"></script>
-
     <script>
-      // js code  -- internal js
-      let userEmail = "albert";
-      // const color = "red";
-      let mode = "dark";
+        let username = "kevin" // i automaticllt inherit methods from String object 
+        console.log( username.includes("b") );
+        
+        // 
+        let colors = ["red", "blue", "green"]
+        console.log(colors.reverse() )  
+        // through prototype chaining, this array is inheriting/linked to the javascript built-in Array object 
+        let car = {color: "Red", cc: 300}  // automatically inherith methods from Object object
+        console.log(car);
+
+        // prototype chaining is  a form of inheritance that allows data types in js to inherit properties and methods from other objects
+
+
+        let student = {
+            name: "Jackson Omondi",
+            age: 23,
+            siblings: ["george", "anita","geofrey"],
+            course: "Computer Science",
+            isDancer: true,
+            sing: ()=>{
+                console.log("Jackson singing.!!! again!!");        
+            },
+            study: function (){
+                    console.log("Jackson studying");
+            }
+        }
+
+        const eldohubStudent = Object.create(student)
+        console.log(typeof eldohubStudent);
+        eldohubStudent.location = "Nairobi"
+
+        console.log( eldohubStudent );
+        eldohubStudent.sing()
+        
+            
     </script>
   </body>
 </html>
