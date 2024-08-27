@@ -65,6 +65,11 @@ const matatus = [
 1. Access the second route of the third matatu.
 // third matatu matatus[2].routes[1]
 
+// Write a function to get prime numbers between a give range (20,80)
+// Write a function that calculates the factorial of a given number.
+// Write a function that counts the number of vowels in a given string.
+// Write a function that finds the greatest common divisor (GCD) of two numbers.
+
 2. Get the color of the last matatu. 
 2. Iterate over the array and print the plate number and color of each matatu e.g. KAI 123
 3. Find the matatu with the highest capacity.
