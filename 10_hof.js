@@ -5,6 +5,7 @@ function claculate(num, num2){
     console.log(num*num2);
     return num*num2
 }
+
 // expect that the arguments of type number
 // arg-- number, string, array, object, function
 
