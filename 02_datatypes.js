@@ -47,6 +47,12 @@ const myCar = {
         console.log("Car starting")        
     }
 }
+myCar.yom.good()
+
+
+
+
+// almost everything js is an object
 
 console.log(typeof myCar); // all the car details {}
 

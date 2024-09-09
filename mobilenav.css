@@ -1,0 +1,27 @@
+header{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.mobile-nav{
+    display: none;
+}
+
+.mobile-nav.open{
+    display: block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 50%;
+    background-color: green;
+    color: white;
+}
+
+a{
+    color: white;
+    padding: 20px;
+    display: block;
+}

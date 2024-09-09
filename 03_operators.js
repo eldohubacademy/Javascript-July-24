@@ -35,5 +35,8 @@ console.log(  12>13 || 12==12   ); // F or T ---- T
 console.log( 12>8 && 90>=91  ); // T
 
 
+// ternary operator ??????????????????   
+// template literals `strin${var}`
+
 
 

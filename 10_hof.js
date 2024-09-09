@@ -1,5 +1,5 @@
 // higher order fuctions -- take funtions as arguments, they can also return function
-
+// callback fn
 function claculate(num, num2){
     // input validation
     console.log(num*num2);
